@@ -7,13 +7,13 @@
 <h3>Q5: Function to reverse a string.</h3>
 <h3>Q6: Guessing Game.</h3>
 <h3>Q7: Program to print the following pattern:-</h3>
-&#42;                     <br>
-&#42;&#42;                <br>
-&#42;&#42;&#42;           <br>
-&#42;&#42;&#42;&#42;      <br>
-&#42;&#42;&#42;&#42;&#42; <br>
-&#42;&#42;&#42;&#42;      <br>
-&#42;&#42;&#42;           <br>
-&#42;&#42;                <br>
+&#42;                   <br>
+&#42; &#42;                <br>
+&#42; &#42; &#42;           <br>
+&#42; &#42; &#42; &#42;      <br>
+&#42; &#42; &#42; &#42; &#42; <br>
+&#42; &#42; &#42; &#42;      <br>
+&#42; &#42; &#42;           <br>
+&#42; &#42;                <br>
 &#42;                     <br>
 <h3>Q8: Program to reverse a string (without using function)</h3>
